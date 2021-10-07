@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.hizliresim.com/qc2qt3z.jpg" width="480" height="360">
+  <img src="https://i.ibb.co/Q8pp367/pp.jpg" width="360" height="360">
   <h1>🐺SL Technical Tips BOT🐺</h1>
 </div>
 <p align="center">
@@ -13,44 +13,22 @@
 </p>
 
 ----
-![Docker Pulls](https://img.shields.io/docker/pulls/fusuf/whatsasena?style=flat-square) ![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/fusuf/whatsasena?style=flat-square)
 
-
-
-<p align="center">
-  <a href="https://github.com/BlackAmda/AN-Tech-Bot/fork">
-    <img src="https://img.shields.io/github/forks/BlackAmda/AN-Tech-Bot?label=Fork&style=social">
-    
-  </a>
-  <a href="httsp://github.com/SLTchnicalTips/SLTechnicalTips-BOT/stargazers">
-    <img src="https://img.shields.io/github/stars/SLTchnicalTips/SLTechnicalTips-BOT?style=social">
-  </a>
-</p>
-
-<p align="center">
-  <a href="httsp://github.com/SLTchnicalTips/SLTechnicalTips-BOT">
-    <img src="https://img.shields.io/github/repo-size/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Repo%20Boyutu&style=plastic">
-
-  </a>
-  <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=License&style=plastic">
-
-  </a>
-  <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated">
-    <img src="https://img.shields.io/github/languages/top/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Javascript&style=plastic">
-
-  </a>
-  <a href="https://github.com/phaticusthiccy">
-    <img src="https://img.shields.io/static/v1?label=Author&message=Black%20Amda&color=purple&style=plastic">
-
-  </a>
-  <a href="https://wa.me/94757405652">
-    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-AN%20Tech%20Bot-purple&style=plastic">
 
   </a>
 </p>
 
+### Simple Method
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
 
+Repl.it is less stable. Try Termux instead for qrcode generation.
+
+----
+
+### Deploy To Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](httsp://github.com/SLTchnicalTips/SLTechnicalTips-BOT)
+
+----
 
 ```
 පදනම:
@@ -80,13 +58,7 @@ WhatsAsena - Asena Userbot යනු සංවර්ධනය සඳහා ව�
 ### Very Simple Method
 `There is no support. Maybe I will handle it..`
 
-### Simple Method
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
 
-Repl.it is less stable. Try Termux instead for qrcode generation.
-
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](httsp://github.com/SLTchnicalTips/SLTechnicalTips-BOT)
 
 ### The Hard Method(Not Supported for this version!!)
 ```js
@@ -113,12 +85,7 @@ If you are concerned about security, you can install it on your own computer. If
 
 Here Are All Commands With Description [GistHub](https://gist.github.com/BlackAmda/28493a9b3e4f6f7ade7774a68b7c1c05)
 
-## Thanks for Everything 
-### We will always remember you..
 
-- [Yusuf Usta](https://github.com/yusufusta)
-- [@fusufs](https://t.me/fusufs)
-- [@phaticusthiccy](https://github.com/phaticusthiccy)
 
 ### ⚠️ Warning! 
 ```
